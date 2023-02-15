@@ -10,4 +10,3 @@ anca yönetici vermezseniz tutarsınız neyse bu eziğin rezilliğini ve botcusu
 ![image](https://cdn.discordapp.com/attachments/1025465436302737509/1075407621844123709/pessenger1.png)
 ![image](https://cdn.discordapp.com/attachments/1025465436302737509/1075408418350837760/aaaaaaaaa.png)
 
-![profile count](https://komarev.com/ghpvc/?username=ramalcik&color=red)&nbsp;
