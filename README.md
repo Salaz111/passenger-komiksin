@@ -1,4 +1,4 @@
-# Alves-Schwartz-maymunluk
+# passanger-maymunluk
 
 piyasada ekiplere geliyorum diye yönetici alıp urlye vuruyor
 ve piyasada şuan urlyi tutacak bot yok illaki gidiyor yok ben tutarım falan boş
